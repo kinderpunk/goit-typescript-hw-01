@@ -1,2 +1,3 @@
-let StringOrNumber: string | number;
-type Switch = "enable" | "disable";
+let variable: string | number;
+
+let status: 'enable' | 'disable';

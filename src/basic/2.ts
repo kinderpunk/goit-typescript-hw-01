@@ -1,2 +1,1 @@
-type Array = [string, number];
-let person: Array = ["Max", 21];
+let person: [string, number] = ['Max', 21];
